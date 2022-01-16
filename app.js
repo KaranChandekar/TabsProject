@@ -14,5 +14,7 @@ about.addEventListener("click", function (e) {
     articles.forEach(function(article){
         article.classList.remove("active")
     })
+    const element = document.getElementById(id);
+    element.classList.add("active");
   }
 });
