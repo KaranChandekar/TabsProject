@@ -10,5 +10,9 @@ about.addEventListener("click", function (e) {
       btn.classList.remove("active");
       e.target.classList.add("active");
     });
+    // hide other articles
+    articles.forEach(function(article){
+        article.classList.remove("active")
+    })
   }
 });
