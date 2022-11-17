@@ -3,12 +3,6 @@
 
 I created a tabs project using html, css and javascript. It simply shows active tab and hide inactice tabs.
 
-
-## Creater
-
-- [@KaranChandekar](https://github.com/KaranChandekar)
-
-
 ## Languages
 
 - HTML
